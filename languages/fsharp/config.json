@@ -42,6 +42,16 @@
         "uuid": "ef2df8b0-63a8-11ea-bc55-0242ac130003",
         "concepts": ["lists-basic"],
         "prerequisites": ["strings-basic"]
+      },
+      {
+        "slug": "values",
+        "uuid": "1fc8216e-6519-11ea-bc55-0242ac130003",
+        "concepts": [
+          "values-basic",
+          "immutability-basic",
+          "type-inference-basic"
+        ],
+        "prerequisites": []
       }
     ],
     "practice": []
