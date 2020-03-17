@@ -9,8 +9,8 @@ These are the Concept Exercises that have currently been implemented, as well as
 | exercise                                | concepts                                                                                   | prerequisites                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------- |
 | [`booleans`][concept-exercise-booleans] | `booleans-basic`                                                                           |                                     |
-| [`lists`][concept-exercise-lists]       | `lists-basic`                                                                              | `strings-basic`                     |
 | [`dates`][concept-exercise-dates]       | `dates-basic`<br/>`time-basic`                                                             | `numbers-basic`<br/>`strings-basic` |
+| [`lists`][concept-exercise-lists]       | `lists-basic`                                                                              | `strings-basic`                     |
 | [`strings`][concept-exercise-strings]   | `strings-basic`                                                                            | -                                   |
 | [`numbers`][concept-exercise-numbers]   | `numbers-basic`<br/>`type-conversion-numbers`<br/>`conditionals-if`                        | -                                   |
 | [`values`][concept-exercise-values]     | `bindings-basic`<br/>`functions-basic`<br/>`type-inference-basic`<br/>`immutability-basic` |
