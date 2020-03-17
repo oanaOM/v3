@@ -16,7 +16,6 @@ An assignment statement sets and/or re-sets the value stored in the storage loca
 This exercise deals with cooking a lasagna dish in the oven. The reference implementation (F#) teaches:
 
 - How to assign a value to a name
-- How an existing value can be updated
 
 #### Implementations
 
