@@ -6,14 +6,14 @@ The Concept Exercises are based on this [list of concepts][reference-shared].
 
 These are the Concept Exercises that have currently been implemented, as well as the Concepts they teach and their prerequisite concepts:
 
-| exercise                                | concepts                                                                                   | prerequisites                       |
-| --------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------- |
-| [`booleans`][concept-exercise-booleans] | `booleans-basic`                                                                           |                                     |
-| [`dates`][concept-exercise-dates]       | `dates-basic`<br/>`time-basic`                                                             | `numbers-basic`<br/>`strings-basic` |
-| [`lists`][concept-exercise-lists]       | `lists-basic`                                                                              | `strings-basic`                     |
-| [`strings`][concept-exercise-strings]   | `strings-basic`                                                                            | -                                   |
-| [`numbers`][concept-exercise-numbers]   | `numbers-basic`<br/>`type-conversion-numbers`<br/>`conditionals-if`                        | -                                   |
-| [`values`][concept-exercise-values]     | `bindings-basic`<br/>`functions-basic`<br/>`type-inference-basic`<br/>`immutability-basic` |
+| exercise                                | concepts                                                                               | prerequisites                       |
+| --------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------- |
+| [`booleans`][concept-exercise-booleans] | `booleans-basic`                                                                       |                                     |
+| [`dates`][concept-exercise-dates]       | `dates-basic`<br/>`time-basic`                                                         | `numbers-basic`<br/>`strings-basic` |
+| [`lists`][concept-exercise-lists]       | `lists-basic`                                                                          | `strings-basic`                     |
+| [`strings`][concept-exercise-strings]   | `strings-basic`                                                                        | -                                   |
+| [`numbers`][concept-exercise-numbers]   | `numbers-basic`<br/>`type-conversion-numbers`<br/>`conditionals-if`                    | -                                   |
+| [`values`][concept-exercise-values]     | `bindings-basic`<br/>`functions-basic`<br/>`type-inference-basic`<br/>`integers-basic` |
 
 **⚠ Note ⚠**: The idea here is to use a `concept` name for the exercise/folder, but perhaps use some sort of "progression", so they will naturally become a sort of path to traverse. For example, the `numbers` exercise only teaches basic number usage, and the `numbers-floating-point` exercise builds on that and digs deeper into floating-point numbers.
 
