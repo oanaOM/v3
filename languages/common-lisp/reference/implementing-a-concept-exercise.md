@@ -24,6 +24,7 @@ languages
                 |   ├── instructions.md
                 |   ├── introduction.md
                 |   ├── hints.md
+                |   ├── source.md
                 |   └── after.md (optional)
                 ├── .meta
                 |   |── config.json
