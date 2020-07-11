@@ -1877,6 +1877,12 @@
         "exercise": "tuples",
         "track": "elixir",
         "language": "Elixir"
+      },
+      {
+        "url": "https://github.com/exercism/v3/tree/master/languages/python/exercises/concept/tuples",
+        "exercise": "tuples",
+        "track": "python",
+        "language": "Python"
       }
     ]
   },
