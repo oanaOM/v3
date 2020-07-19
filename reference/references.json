@@ -13,6 +13,19 @@
     ]
   },
   {
+    "name": "agent",
+    "variations": ["agent", "agents"],
+    "documents": [],
+    "implementations": [
+      {
+        "url": "https://github.com/exercism/v3/tree/master/languages/elixir/exercises/concept/agent",
+        "exercise": "agent",
+        "track": "elixir",
+        "language": "Elixir"
+      }
+    ]
+  },
+  {
     "name": "anonymous-functions",
     "variations": [
       "anonymous-functions",
@@ -976,6 +989,19 @@
     ]
   },
   {
+    "name": "generic-types",
+    "variations": ["generic-types", "generic-type", "generic_types"],
+    "documents": [],
+    "implementations": [
+      {
+        "url": "https://github.com/exercism/v3/tree/master/languages/csharp/exercises/concept/lists",
+        "exercise": "lists",
+        "track": "csharp",
+        "language": "C#"
+      }
+    ]
+  },
+  {
     "name": "goroutines",
     "variations": ["goroutines", "goroutine"],
     "documents": [],
@@ -1106,6 +1132,12 @@
       }
     ],
     "implementations": [
+      {
+        "url": "https://github.com/exercism/v3/tree/master/languages/csharp/exercises/concept/lists",
+        "exercise": "lists",
+        "track": "csharp",
+        "language": "C#"
+      },
       {
         "url": "https://github.com/exercism/v3/tree/master/languages/fsharp/exercises/concept/lists",
         "exercise": "lists",
